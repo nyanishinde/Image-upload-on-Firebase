@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "374076499505",
+    "firebase_url": "https://realtimedatabaseexample-528e0-default-rtdb.firebaseio.com",
+    "project_id": "realtimedatabaseexample-528e0",
+    "storage_bucket": "realtimedatabaseexample-528e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374076499505:android:210bf531af655e353a1710",
+        "android_client_info": {
+          "package_name": "com.example.firebaseimageupload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7DR-se_UeVXiKnP_9IAVQbNmBJAN5Oxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374076499505:android:b4a8490d27065c1e3a1710",
+        "android_client_info": {
+          "package_name": "com.example.realtimedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7DR-se_UeVXiKnP_9IAVQbNmBJAN5Oxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
